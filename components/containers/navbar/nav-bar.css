@@ -1,0 +1,15 @@
+/* .header-container{
+    background-color: #9B6EAD !important;
+} */
+
+.menu-container{
+    display: grid;
+    grid-auto-flow: column;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* .log-out--purple-color{
+    background-color: #84429E !important;
+} */

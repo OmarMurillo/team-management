@@ -1,0 +1,13 @@
+.public-view--container{
+    display: grid;
+    width: 100%;
+    height: 100vh;
+    justify-items: center;
+    align-content: center;
+}
+
+.public-view--header{
+    /* width: 100%;
+    height: 5rem;
+    bac */
+}
